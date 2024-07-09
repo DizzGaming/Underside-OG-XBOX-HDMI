@@ -1,5 +1,5 @@
 Underside-OG-XBOX-HDMI
-I present to you my custom made PCB to assist the well known XBOX HD+ Mod
+I present to you my custom made PCB to assist the well known XBOX HD+ Mod to be installed on the underside of the XBOX motherboard
 
 This custom build PCB is built to help with the XBOX AVIP Socket soldering locations for the XBOX HD+
 
