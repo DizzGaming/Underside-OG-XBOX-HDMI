@@ -1,8 +1,8 @@
 Underside-OG-XBOX-HDMI
 I present to you my custom made PCB to assist the well known XBOX HD+ Mod to be installed on the underside of the XBOX motherboard
-![Underside OG XBOX HDMI - Back](https://github.com/user-attachments/assets/7938f0d2-da8e-4c11-b89d-030dc61ff715)
-![Underside OG XBOX HDMI - Front](https://github.com/user-attachments/assets/1d2ca5c4-2bc0-4d3a-8aa3-9c523f0c87ef)
 
+![Underside OG XBOX HDMI - Front](https://github.com/user-attachments/assets/1d2ca5c4-2bc0-4d3a-8aa3-9c523f0c87ef)
+![Underside OG XBOX HDMI - Back](https://github.com/user-attachments/assets/7938f0d2-da8e-4c11-b89d-030dc61ff715)
 
 This custom build PCB is built to help with the XBOX AVIP Socket soldering locations for the XBOX HD+
 
