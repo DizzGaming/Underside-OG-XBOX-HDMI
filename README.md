@@ -10,6 +10,6 @@ This custom PCB I built to help with the XBOX AVIP Socket soldering locations fo
 
 ![Install 1](https://github.com/user-attachments/assets/956cea78-0f64-44b9-82fe-145825bcb579)
 
-If you like my design please consider donating to support my work. It takes time, effort and money to test these designs and I happy to share at no cost to help benifit the community.
+If you like my design please consider donating to support my work. It takes time, effort and money to test these designs and I am happy to share at no cost, to help benefit the community.
 
 https://buy.stripe.com/8wM14MdYMfsBfHW6oo
